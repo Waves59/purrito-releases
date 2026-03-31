@@ -8,7 +8,7 @@
         <item>
             <title>Version 1.0</title>
             <pubDate>Tue, 01 Apr 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -21,9 +21,9 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Waves59/purrito-releases/releases/download/v1.0-build3/Purrito.zip"
-                sparkle:edSignature="uKCISrAEFtpXmnEUCJaTebU4On1S6jS+KdncaHhPutxN+mY6QKXcHt2YcDsfvLJDhkF/+e2PbdbfvFFxE6aiDQ=="
-                length="13759986"
+                url="https://github.com/Waves59/purrito-releases/releases/download/v1.0/Purrito.zip"
+                sparkle:edSignature="/o7umU8k6X03PLx9eFYqAFx0jAXdvzKrAdAFb3K7AzweVLwNhKlrF35PJFoZ0acn2/QT4zjXnYsFXaphuvoACA=="
+                length="13760006"
                 type="application/octet-stream"
             />
         </item>

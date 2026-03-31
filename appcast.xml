@@ -6,6 +6,24 @@
         <description>Purrito update feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.0 (build 2)</title>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Minor hint text tweak</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Waves59/purrito-releases/releases/download/v1.0-build2/Purrito.zip"
+                sparkle:edSignature="hLLaB+jrKdTPYXZAPN6UgpxB/juxd9RlgGe8sezLD25EHyp+Smj3XqNMtK6VLMCT+1V3D4nP3bHKeYtROFSGBg=="
+                length="13759996"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.0</title>
             <pubDate>Tue, 01 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Purrito</title>
+        <link>https://github.com/Waves59/Purrito</link>
+        <description>Purrito update feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Tue, 01 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Version 1.0</h2>
+                <ul>
+                    <li>Initial release</li>
+                    <li>4 cats: Mochi, Nova, Soba, Pixel</li>
+                    <li>Pet your cat with the trackpad</li>
+                    <li>Battery monitoring with purring sounds</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Waves59/Purrito/releases/download/v1.0/Purrito.zip"
+                sparkle:edSignature="Xi5yXlHbEtt6W6v2GJPkLYDbMSZOxMyl7gTW0Flzp5QN2Fcxqsf6UVhQg+H12wLoULSQHMZQOz+oNx5EbRG+DQ=="
+                length="13759991"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>

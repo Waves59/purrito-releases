@@ -6,24 +6,24 @@
         <description>Purrito update feed</description>
         <language>en</language>
         <item>
-            <title>Version 1.0</title>
-            <pubDate>Tue, 01 Apr 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <title>Version 1.0 (build 8)</title>
+            <pubDate>Sun, 27 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>Version 1.0</h2>
+                <h2>Version 1.0 (build 8)</h2>
                 <ul>
-                    <li>Initial release</li>
-                    <li>4 cats: Mochi, Nova, Soba, Pixel</li>
-                    <li>Pet your cat with the trackpad</li>
-                    <li>Battery monitoring with purring sounds</li>
+                    <li>Compteur d'âge du chat (jours / mois / ans)</li>
+                    <li>Animation Zzz dans la menu bar quand le chat dort</li>
+                    <li>Son d'alerte quand la batterie passe sous 10%</li>
+                    <li>Easter egg : 5 clics rapides</li>
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Waves59/purrito-releases/releases/download/v1.0/Purrito.zip"
-                sparkle:edSignature="+wTRe9MdCqlP9Q3aAZ1Nh371cJ/FENrr3EJPHi4dhWZdHkYw/wjA/ZdwR+uf8Zxj5FIoWEX46UaWg0UZLV4iAQ=="
-                length="13760019"
+                url="https://github.com/Waves59/purrito-releases/releases/download/v1.0-build8/Purrito.zip"
+                sparkle:edSignature="uSLwjYmA/+lf+EuYfvF9BJfWyTSdSwE9zMTmY09N9OyIJNadaMMhMFHS7cGTzOQOTDtBRzQKzxdJxEOgykzuDA=="
+                length="13774638"
                 type="application/octet-stream"
             />
         </item>
